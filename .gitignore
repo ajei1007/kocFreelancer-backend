@@ -1,0 +1,26 @@
+# Node.js and npm
+node_modules/
+npm-debug.log
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+
+# Typescript
+*.tsbuildinfo
+
+# Visual Studio Code directories
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# MongoDB data directory
+/data/
