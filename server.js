@@ -55,4 +55,3 @@ mongoose.connect(uri, { useNewUrlParser: true, useUnifiedTopology: true })
   })
 app.listen(5000, () => console.log("server started of port [5000]"));
 
-
